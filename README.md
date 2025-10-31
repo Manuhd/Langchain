@@ -63,7 +63,7 @@ For RAG (Retrieval-Augmented Generation):
 - ✅ Chroma
 - ✅ Weaviate
 
-### 7. LangSmith + LangGraph Integration
+### 7. LangSmith + [LangGraph](https://github.com/Manuhd/LangGraph/blob/main/README.md) Integration
 
 LangChain + LangGraph = production-grade agent systems.
 
