@@ -127,10 +127,10 @@ curl https://api.together.xyz/v1/models \
 ### ✅ 5. Example Fix in LangChain
 
 ❌ Wrong
-
+```
 from langchain_openai import ChatOpenAI
 model = ChatOpenAI(model="gpt-4")
-
+```
 ✅ Correct
 ```
 from langchain_openai import ChatOpenAI
