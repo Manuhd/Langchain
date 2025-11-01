@@ -185,3 +185,8 @@ qa = RetrievalQA.from_chain_type(
 
 print(qa.run("What is LangChain?"))
 ```
+
+
+“LangChain is a powerful framework that makes it easy to build AI applications using Large Language Models.
+It provides ready-made components like prompts, chains, memory, agents, and retrieval systems, allowing LLMs to interact with data, tools, and workflows.
+With LangChain, developers can create smart chatbots, RAG systems, document-search apps, and AI agents efficiently and in a structured way.”
