@@ -29,7 +29,7 @@ model="llama3-70b"
 
 ## 2. How to Solve Model Mismatch
 
-### Step 1: Check which provider you are using
+#### Step 1: Check which provider you are using
 
 OpenAI
 
@@ -42,14 +42,14 @@ HuggingFace
 Google Gemini
 
 
-### ✅ Step 2: Use only the model names that provider supports.
+#### ✅ Step 2: Use only the model names that provider supports.
 
-### ✅ Step 3: Update your code with the correct model name.
+#### ✅ Step 3: Update your code with the correct model name.
 
 
 ---
 
-### ✅ 3. How to List Available Models (Correct Commands)
+## 3. How to List Available Models (Correct Commands)
 
 ### ✅ A) List OpenAI available models
 ```
